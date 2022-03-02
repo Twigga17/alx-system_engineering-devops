@@ -16,3 +16,4 @@ Creating symbolic link
 Copy Html files
 All uppercase letter beginning
 Delete files ending with character
+Creating multiple directories
