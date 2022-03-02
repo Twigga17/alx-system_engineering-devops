@@ -11,3 +11,5 @@ Delete directory
 Delete directory
 Previous directory
 listing different directories 
+File type
+Creating symbolic link
