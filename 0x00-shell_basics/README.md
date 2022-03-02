@@ -9,3 +9,5 @@ Moving files
 Delete files
 Delete directory
 Delete directory
+Previous directory
+listing different directories 
