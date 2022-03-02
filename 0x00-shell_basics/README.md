@@ -6,3 +6,4 @@ View hidden files
 Long format + digits only + hidden files with .
 Create directory within directory
 Moving files
+Delete files
