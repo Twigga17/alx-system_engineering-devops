@@ -7,3 +7,5 @@ Long format + digits only + hidden files with .
 Create directory within directory
 Moving files
 Delete files
+Delete directory
+Delete directory
