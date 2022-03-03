@@ -7,3 +7,4 @@ Add execute permission to file
 Adding multiple permissions
 Permissions
 Specific permissions
+Mirror permissions
