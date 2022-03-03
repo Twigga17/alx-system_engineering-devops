@@ -8,3 +8,4 @@ Adding multiple permissions
 Permissions
 Specific permissions
 Mirror permissions
+Subdirectory permission
