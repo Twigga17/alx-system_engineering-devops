@@ -11,3 +11,4 @@ Mirror permissions
 Subdirectory permission
 Directory permissions
 Change group
+Change owner and group
