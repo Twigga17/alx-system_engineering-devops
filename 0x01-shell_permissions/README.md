@@ -9,3 +9,5 @@ Permissions
 Specific permissions
 Mirror permissions
 Subdirectory permission
+Directory permissions
+Change group
