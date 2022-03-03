@@ -12,3 +12,6 @@ Subdirectory permission
 Directory permissions
 Change group
 Change owner and group
+Symbolic link permissions
+Change owner
+Star Wars
